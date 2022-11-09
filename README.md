@@ -1,4 +1,4 @@
-## Grocery Sign-up Rate
+## this is example A/B testing dataset Grocery Sign-up Rate
 
 ### The Scenario
 #### In late June, we mailed out promotional content to some of our customers for our "Delivery Club" Signing up to the club cost dollars and gave customers free grocery deliveries for one year, starting on July 1st.
